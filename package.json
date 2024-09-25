@@ -1,5 +1,5 @@
 {
-  "name": "dnio-state-watch",
+  "name": "@datanimbus/state-watch",
   "version": "1.0.0",
   "description": "A Library to store state data in mongodb and watch for any change in it.",
   "main": "index.js",
