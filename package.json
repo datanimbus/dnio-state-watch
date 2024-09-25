@@ -1,0 +1,27 @@
+{
+  "name": "dnio-state-watch",
+  "version": "1.0.0",
+  "description": "A Library to store state data in mongodb and watch for any change in it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/datanimbus/dnio-state-watch.git"
+  },
+  "keywords": [
+    "State",
+    "MongoDB",
+    "NodeJS"
+  ],
+  "author": "Jugnu Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datanimbus/dnio-state-watch/issues"
+  },
+  "homepage": "https://github.com/datanimbus/dnio-state-watch#readme",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
